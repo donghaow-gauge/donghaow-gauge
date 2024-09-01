@@ -1,4 +1,8 @@
-## Hi there 👋
+# About me
+
+I am a quant researcher at Wizard Quant. Based at Shanghai, China.
+
+I was a mathematician specialized in gauge theory and low dimensional topology, who later lost interest in these fields.
 
 <!--
 **donghaow-gauge/donghaow-gauge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
