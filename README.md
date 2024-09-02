@@ -2,7 +2,9 @@
 
 I am a quant researcher at Wizard Quant. Based at Shanghai, China.
 
-I was a mathematician specialized in gauge theory and low dimensional topology, who later lost interest in these fields.
+I was a mathematician specialized in gauge theory and low dimensional topology, who lost interest in these fields.
+
+I am learning data analysis packages like pandas and numpy in python.
 
 <!--
 **donghaow-gauge/donghaow-gauge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
